@@ -1,0 +1,211 @@
+*{margin:0 ; padding:0 ;}
+.a1{
+    background-image: url(../img/11.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    
+}
+.a2{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 15px;
+    left: 60px;
+    position: fixed;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    color: aliceblue;
+}
+a{
+    color: white;
+    text-decoration: none;
+    display: inline;
+    position: absolute;
+    top: 21px;
+    left :400px;
+    font-size: 25px;
+}
+li{
+    display: inline;
+}
+.a8{
+    position: absolute;
+    position: fixed;
+}
+.a3{
+    position: absolute;
+    left: 550px;
+    position: fixed;
+}
+.a4{
+    position: absolute;
+    left: 730px;
+    position: fixed;
+}
+.a5{
+    position: absolute;
+    left: 990px;
+    position: fixed;
+}
+ .a6{
+    width: 400px;
+    position: absolute;
+    top: 220px;
+    left: 730px;
+    border: 2px solid white;
+    border-radius: 10px;
+ }  
+ .q1{
+    color: white;
+    position: absolute;
+    top: 180px;
+    font-size: 22px;
+    left: 850px;
+ } 
+ .box1{
+    border: 2px solid white;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+    width: 250px;
+    height: 170px;
+    border-radius: 10px;
+    position: absolute;
+    top: 280px;
+    left: 100px;
+    position: relative;
+}
+.q2{
+    color: white;
+    position: absolute;
+    left: 30px;
+    top: 15px;
+}
+.q3{
+    color: white;
+    position: absolute;
+    left: 98px;
+    top: 50px;
+}
+.q4{
+    color: white;
+    position: absolute;
+    left: 98px;
+    top: 90px;
+}
+.q5{
+    color: white;
+    position: absolute;
+    left: 100px;
+    top: 130px;
+}
+.z{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 13px;
+    left: 5px;
+}
+.z1{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 48px;
+    left: 5px;
+}
+.z2{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 89px;
+    left: 5px;
+}
+.z3{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 129px;
+    left: 5px;
+}
+
+.qqq{
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    left: 100px;
+    top: 240px;
+}
+.xxx{
+    width: 1920px;
+    height: 50px;
+    background-color: gray;
+}
+.qwer123{
+    background-color: rgb(33, 32, 32);
+    width: 1230px;
+    height: 70px;
+    opacity: 1;
+    color: wheat;
+    position: fixed;
+    z-index: 1;
+}
+body{
+    background-color: black;
+}
+.pop{
+    height: 100vh;
+    width: 100%;   
+}
+.qwe{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    padding-top: 5px;
+    padding-left: 3px;
+    position: fixed;
+}
+.pop{
+    position: relative;
+}
+.pop1{
+    text-align: center;
+    width: 220px;
+    height: 200px;
+    position: absolute;
+    margin-left: 470px;
+    top: 150px;
+}
+.zx{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 505px;
+    top: 350px;
+}
+.dd{
+    color: white;
+    position: absolute;
+    top: 390px;
+    left: 525px;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
